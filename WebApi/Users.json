@@ -1,0 +1,3 @@
+
+db.Users.insertMany([{'NickName':'bc','FullName':{'First':'Burak', 'Last':'Can'}},{'NickName':'eb','FullName':{'First':'Eren', 'Last':'Bekar'}}])
+db.Users.insertMany([{'NickName':'bc'},{'NickName':'eb'}])
